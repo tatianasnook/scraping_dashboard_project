@@ -8,3 +8,4 @@ CACHEDIR.TAG
 .venv/
 db/*.db
 data/*.csv
+data/cleaned/*.csv
