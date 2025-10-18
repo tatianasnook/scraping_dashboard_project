@@ -6,6 +6,3 @@ __pycache__/
 .vscode
 CACHEDIR.TAG
 .venv/
-db/*.db
-data/*.csv
-data/cleaned/*.csv
